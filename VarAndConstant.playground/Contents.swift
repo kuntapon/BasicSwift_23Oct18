@@ -17,7 +17,19 @@ let name2String = "Doramon"
 let surname2String: String = "Japan"
 
 //nameString ="Nobita"
+print("Thailand")
+print("number ==> \(numberInt)")
 
+//Operationg
+let answerString = nameString + " " + surnameString
+print("Answer ==> \(answerString)")
 
-
-
+//Int to String
+let  answer2String: String = nameString + String(numberInt)
+print("answer2 ==> \(answer2String)")
+//Double to Int
+let  answerInt: Int = numberInt + Int(number3Dou)
+print("answer2 ==> \(answerInt)")
+//Int to Double
+let answerDou: Double = number3Dou + Double(numberInt)
+print("answer2 ==> \(answerDou)")
