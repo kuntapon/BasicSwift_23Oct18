@@ -12,6 +12,12 @@ var number2Int: Int = 555
 var number3Dou: Double = 12.33
 var statusBool:Bool = true
 
+//Contant
+let name2String = "Doramon"
+let surname2String: String = "Japan"
+
+//nameString ="Nobita"
+
 
 
 
